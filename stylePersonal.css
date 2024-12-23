@@ -1,0 +1,54 @@
+html, body{
+    background-color:wheat;
+    padding: 0;
+    margin-bottom: 0;
+}
+
+.top header{
+    color: white;
+    padding: 15px;
+    display:inline-block;
+    text-decoration: none;
+    text-align: center;
+}
+
+.header{
+    background-color: rgb(22, 21, 21); 
+    padding: 40px;
+    text-align: center;
+}
+
+.box1{
+    background-color:lightblue;
+    padding: 20px;
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+.box2{
+    background-color:lightgray;
+    padding: 20px;
+    margin-bottom: 15px;
+    text-align: center;
+}
+
+.box3{
+    background-color:lightgray;
+    padding: 20px;
+    margin-bottom: 0px;
+
+}
+
+.box4{
+    background-color:lightgray;
+    padding: 20px;
+    margin-bottom: 0px;
+    text-align: center;
+
+}
+
+.Lowfooter{
+    background-color:whitesmoke;
+    padding: 20px;
+    text-align: center;
+}
